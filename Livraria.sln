@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Livraria", "Livraria\Livraria.csproj", "{1C0DCB7C-F235-4417-9F33-7B6752C9382F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C0DCB7C-F235-4417-9F33-7B6752C9382F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0DCB7C-F235-4417-9F33-7B6752C9382F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0DCB7C-F235-4417-9F33-7B6752C9382F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0DCB7C-F235-4417-9F33-7B6752C9382F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBEBA4B6-A56C-4C6D-9D0F-92EB1E4ACE54}
+	EndGlobalSection
+EndGlobal
